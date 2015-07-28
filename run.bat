@@ -1,0 +1,1 @@
+start "" "%~dp0Console\ConsolePortable.exe" -t dev -r "set PATH=%~dp0git\bin;%~dp0nodejs;%PATH%"
